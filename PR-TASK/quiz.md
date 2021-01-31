@@ -8,7 +8,7 @@ Why are you interested in learning of Git and Github?
 
 #Answers:
 1.Git and Github is basically a software/platform through which we can keep a track of projects and also can deploy(host in other words) our projects to make it available for public.
-2.Git helps us to commit/track/keep all the versions of a same project through branching/dividing and we have the luxury to control the version of our project.
+2.Git helps us to commit/track/keep all the versions of a same project through branching.
 3.It's easy to save Your file in GitHub and save memory in your hardrive and also even if Ur system gets crashed 
 
 #Day 2
