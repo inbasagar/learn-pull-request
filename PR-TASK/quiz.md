@@ -17,6 +17,8 @@ What do you understand by repository, in context to git?
 How does git work? Share with us the workflow in the most precise way possible.
 Link of the repository that you created and pushed your project in.
 
+Answers:
+
 1.repository is like set of fil/folders where all our work will be stored as a backup. It's kind of server where you store all your previous/currently developing version of your work
 2.workflow: working-->staging--->repo
 3.https://github.com/inbasagar/Mini-project-1
