@@ -7,10 +7,9 @@ What are the other platforms similar to GitHub?
 Why are you interested in learning of Git and Github?
 
 #Answers:
-Git and Github is basically a software/platform through which we can keep a track of projects and also can deploy(host in other words) our projects to make it available for public.
-Provides many options to projects to deploy and at the same time its user friendly and open source.
-Git helps us to commit/track/keep all the versions of a same project through branching/dividing and we have the luxury to control the version of our project.
-It's easy to save Your file in GitHub and save memory in your hardrive and also even if Ur system gets crashed 
+1.Git and Github is basically a software/platform through which we can keep a track of projects and also can deploy(host in other words) our projects to make it available for public.
+2.Git helps us to commit/track/keep all the versions of a same project through branching/dividing and we have the luxury to control the version of our project.
+3.It's easy to save Your file in GitHub and save memory in your hardrive and also even if Ur system gets crashed 
 
 #Day 2
 What do you understand by repository, in context to git?
